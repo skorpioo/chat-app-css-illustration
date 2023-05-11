@@ -127,7 +127,7 @@ h6 {
 }
 @media (min-width: 55em) {
   .component__phone {
-    left: 61.5%;
+    left: 62%;
     margin-block: auto;
   }
 }
