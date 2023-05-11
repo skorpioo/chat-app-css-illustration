@@ -257,32 +257,32 @@ h6 {
           animation: scale 0.4s forwards;
 }
 .component__chat > *:nth-child(2) {
-  -webkit-animation-delay: 4s;
-          animation-delay: 4s;
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
 }
 .component__chat > *:nth-child(3) {
-  -webkit-animation-delay: 8s;
-          animation-delay: 8s;
+  -webkit-animation-delay: 7s;
+          animation-delay: 7s;
 }
 .component__chat > *:nth-child(4) {
-  -webkit-animation-delay: 11s;
-          animation-delay: 11s;
+  -webkit-animation-delay: 10s;
+          animation-delay: 10s;
 }
 .component__chat > *:nth-child(5) {
-  -webkit-animation-delay: 14s;
-          animation-delay: 14s;
+  -webkit-animation-delay: 13s;
+          animation-delay: 13s;
 }
 .component__chat > *:nth-child(6) {
-  -webkit-animation-delay: 19s;
-          animation-delay: 19s;
+  -webkit-animation-delay: 18s;
+          animation-delay: 18s;
 }
 .component__chat > *:nth-child(7) {
-  -webkit-animation-delay: 21s;
-          animation-delay: 21s;
+  -webkit-animation-delay: 20s;
+          animation-delay: 20s;
 }
 .component__chat > *:nth-child(8) {
-  -webkit-animation-delay: 22s;
-          animation-delay: 22s;
+  -webkit-animation-delay: 21s;
+          animation-delay: 21s;
 }
 @-webkit-keyframes scale {
   50% {
